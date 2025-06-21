@@ -1,0 +1,6 @@
+{
+  "name": "GeoProtec - Location Verification",
+  "description": "An application to verify if a postal address is within a predefined geographical polygon. Includes an admin panel to upload and update the polygon.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
