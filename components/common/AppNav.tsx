@@ -39,6 +39,6 @@ export const AppNav: React.FC = () => {
       </Link>
     </nav>
   );
-};
+
 
     
